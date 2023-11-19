@@ -3,7 +3,7 @@ const descrptions = [
     {
         name: "Amazon",
         image: "../Src/Images/amazon.jpg",
-        content: "En 2019, AWS (Amazon Web Services) a lancé un centre d'informatique quantique, avec l'idée d'accélérer le développement d'ordinateurs quantiques, en ayant le rôle ambitieux de créer un ordinateur quantique qui est capable de tolérer des variations dans spn environnement sans problème majeur. Ils ont fait un partenariat avec l'Institut Technologique de Californie afin d'accélérer encore leur travail."
+        content: "En 2019, AWS (Amazon Web Services) a lancé un centre d'informatique quantique, avec l'idée d'accélérer le développement d'ordinateurs quantiques, en ayant le rôle ambitieux de créer un ordinateur quantique qui est capable de tolérer des variations dans son environnement sans problème majeur. Ils ont fait un partenariat avec l'Institut Technologique de Californie afin d'accélérer encore leur travail."
     }, 
     {
         name: "D-Wave Systems",
@@ -13,7 +13,7 @@ const descrptions = [
     {
         name: "Google",
         image: "../Src/Images/google.jpg",
-        content: "Google est une autre entreprse ayant fait de gros progrès dans l'informatique quantique. Son ordinateur quantque le plus puissant, Sycamore, possède 54 qubits, avec des portes logiques de haute fidélité. Avec cet ordinateur quantique, Google estime avoir accompli une perfecton de l'informatique quantique : avec, ils ont pu effectuer des calculs en quelques minutes, alors qu'ils auraient pris eznviron 10000 ans à des super-ordinateurs ordinaires à faire ! Depuis, ils l'ont utiliser pour effectuer des simunations chmiques, et plus."
+        content: "Google est une autre entreprse ayant fait de gros progrès dans l'informatique quantique. Son ordinateur quantque le plus puissant, Sycamore, possède 54 qubits, avec des portes logiques de haute fidélité. Avec cet ordinateur quantique, Google estime avoir accompli une perfecton de l'informatique quantique : avec, ils ont pu effectuer des calculs en quelques minutes, qui auraient pris environ 10 000 ans à des super-ordinateurs ordinaires à faire ! Depuis, ils l'ont utilisé pour effectuer des simulations chmiques, et plus."
     },
     {
         name: "IBM",
